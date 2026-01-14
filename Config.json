@@ -1,10 +1,10 @@
 {
-  "author": "IMRAN",
+  "author": "Milon",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
+  "BOTNAME": "Milon",
   "EMAIL": "sanjivfresh@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
@@ -12,7 +12,7 @@
     "100091459940475"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "61586540721576"
   ],
   "OWNER": ["100075122837809"],
   "disabledcmds": [],
