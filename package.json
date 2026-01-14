@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main/catalogs/Milon.js"
   },
-  "author": "IMRAN",
+  "author": "Milon",
   "license": "ISC",
   "dependencies": {
     "abir-photo360-apis": "^1.0.2",
