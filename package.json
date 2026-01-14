@@ -1,10 +1,10 @@
 {
-  "name": "IMRAN",
+  "name": "Milon",
   "version": "1.0.9",
   "description": "simple facebook messenger bot",
-  "main": "main/catalogs/IMRANA.js",
+  "main": "main/catalogs/Milon.js",
   "scripts": {
-    "start": "node main/catalogs/IMRANA.js"
+    "start": "node main/catalogs/Milon.js"
   },
   "author": "IMRAN",
   "license": "ISC",
