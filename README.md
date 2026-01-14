@@ -1,15 +1,15 @@
-# 🤖 IMRAN BOT V4
+# 🤖 MILON BOT V4
 
-![IMRAN BOT Logo](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/imranbotlogo.png)
+![Milon BOT Logo](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/imranbotlogo.png)
 
 **🌟 Fully Customizable Facebook Messenger Bot**  
 **Premium Features • Easy to Use • Built with ❤️ by Imran Ahmed**
 
 ## 👤 ABOUT ME
 
-- Name: ```IMRAN AHMED```</br> 
+- Name: ```Milon hasan```</br> 
 - Age: ```20```</br>  
-- Facebook: [Imran Ahmed](https://www.facebook.com/Imran.Ahmed099).</br>
+- Facebook: [Milon hasan](https://www.facebook.com/Imran.Ahmed099).</br>
 
 ## 🚀 STARTUP
 
@@ -23,7 +23,7 @@ node main/catalogs/IMRANA.js
 
 Original Base: BotPack by YanMaglinte
 
-Modified By: ```Imran & Ryuko```</br>
+Modified By: ```Milon & Ryuko```</br>
 
 Facebook Client: fca-ws3 by Kenneth Aceberos
 
@@ -42,7 +42,7 @@ Facebook Client: fca-ws3 by Kenneth Aceberos
 
 File	Description
 
-IMRAN.js	```Auto restart and pending message handler```</br>
+Milon.js	```Auto restart and pending message handler```</br>
 Config.json	```Bot name, prefix, admins, operators, etc.```</br>
 appstate.json ```Facebook login/session state```</br>
 
@@ -123,7 +123,7 @@ module.exports.run = async ({ api, event, args }) => {
 
 📁 RESOURCES
 
-GitHub Repository: [IMRAN-BOTV4](https://github.com/MR-IMRAN-60/IMRAN-BOTV4)
+GitHub Repository: [Milon-BOTV4](https://github.com/MR-IMRAN-60/IMRAN-BOTV4)
 
 
 > 💬 Developed with care by Imran Ahmed & Ryuko
