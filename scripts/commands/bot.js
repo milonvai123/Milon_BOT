@@ -4,7 +4,7 @@ module.exports.config = {
   name: "bot",
   version: "2.2.0",
   permission: 0,
-  credits: "IMRAN",
+  credits: "Milon",
   description: "Chat with a Simsimi-like bot (reply + trigger words support)",
   prefix: false,
   premium: false,
