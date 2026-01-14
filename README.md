@@ -1,6 +1,6 @@
 # 🤖 MILON BOT V4
 
-![Milon BOT Logo](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/imranbotlogo.png)
+![Milon BOT Logo](https://raw.githubusercontent.com/MR-Milon-60/ImranBypass/refs/heads/main/imranbotlogo.png)
 
 **🌟 Fully Customizable Facebook Messenger Bot**  
 **Premium Features • Easy to Use • Built with ❤️ by Imran Ahmed**
