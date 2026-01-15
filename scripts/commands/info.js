@@ -6,7 +6,7 @@ module.exports.config = {
   name: "info",
   version: "1.0.0",
   permission: 0,
-  credits: "IMRAN",
+  credits: "Milon",
   description: "Show stylish admin information",
   prefix: true,
   category: "INFO",
@@ -35,10 +35,10 @@ module.exports.run = async ({ api, event, args }) => {
   const info = `
 ✦ 𝗬𝗨𝗠𝗜𝗞𝗔 𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 𝗜𝗡𝗙𝗢 ✦
 
-❖ 𝗡𝗮𝗺𝗲: 『 ${adminInfo.name} 』
-❖ 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: 『 ${adminInfo.city} 』
-❖ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: 『 ${adminInfo.work} 』
-❖ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 『 ${adminInfo.whatsapp} 』
+❖ 𝗡𝗮𝗺𝗲: 『 Milon Hasan 』
+❖ 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: 『 DHAKA 』
+❖ 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: 『 probasi 』
+❖ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: 『 8801912603270 』
 ❖ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: 『 ${adminInfo.facebook} 』
 
 ╔════════ • ✤ • ════════╗
@@ -48,7 +48,7 @@ module.exports.run = async ({ api, event, args }) => {
 ❖ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: 『 ${botVersion} 』
 ❖ 𝗨𝗽𝘁𝗶𝗺𝗲: 『 ${uptime} 』
 ❖ 𝗖𝗼𝗱𝗲𝗿: 『 ${adminInfo.name} 』
-❖ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸: 『 IMRAN-API 』
+❖ 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸: 『 Milon-API 』
 `.trim();
 
   const imagePath = __dirname + "/cache/admin.png";
