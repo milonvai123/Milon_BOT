@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: IMRAN-BOT
-        run: npm start
+        run: npm startname
